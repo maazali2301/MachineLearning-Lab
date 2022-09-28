@@ -1,0 +1,24 @@
+1) Use naïve bayes classifer on the Tennis play dataset, your code should ask the user to input
+some features and return the class of the input
+
+
+2)Use bayesian classification to detect the class of a test sentence. Once use naïve bayes to
+classify the test sentence and then remove the naïve assumption and classify the sentence.
+
+Test Sentence: “Mangoes are good”
+Training Set:
+
+Positive Sentences.....
++ I love mangoes.
++ Mangoes are a lot tastier than other fruits
++ I like mangoes because they are good,
++ Apples are good too but I prefer mangoes
++ People say mango is the king of fruit so that is why mangoes are good
++ Mangoes are good because they are juicy
+
+Negative Sentences.....
+- Eating too many mangoes can have a negative impact on your health
+- Mangoes are good but not too good, I like apples more than mangoes
+- I don’t like mangoes because they are expensive
+- Mangoes are not good.
+- I don’t like mangoes
